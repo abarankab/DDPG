@@ -1,5 +1,5 @@
 # DDPG
-Implementation of deep deterministic policy gradient algorithm using PyTorch. Tested in OpenAi Gym Pendulum-v0 environment. 
+Implementation of deep deterministic policy gradient algorithm using PyTorch. Tested in OpenAI Gym Pendulum-v0 environment. 
 
 ## Actor behavior after 2000 episodes
 
